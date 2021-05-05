@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "SpongeBob",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png",
+      "price": "43",
+      "id": 8
+    },
+    {
+      "name": "Baby",
+      "image": "https://thumbor.forbes.com/thumbor/250x382/https://blogs-images.forbes.com/dorothypomerantz/files/2011/09/Spongebob-squarepants.jpg?width=960",
+      "price": "33",
+      "id": 9
+    },
+    {
+      "name": "krebby paty",
+      "image": "https://www.liveabout.com/thmb/rC2X0mQgPVCOmDclXeUtN16MiOA=/2250x1500/filters:fill(auto,1)/spongebob_wide-56a00f0a5f9b58eba4aeb6f2.jpg",
+      "price": "33",
+      "id": 10
     }
   ]
 }
